@@ -24,7 +24,7 @@ As part of my internship project, I undertook the task of analyzing a large data
    
    - The primary tool used for data processing was PySpark, which is the Python interface for Apache Spark.
    
-   - PySpark was used to load the dataset,perform transformations, groupings, sorting, and to extract meaningful insights from the data.
+   - PySpark was used to load the dataset, perform transformations, groupings, sorting, and to extract meaningful insights from the data.
    
    - Spark's ability to handle large scale data processing in memory makes it suitable for scenarios where performance and scalability are critical.
 
