@@ -61,3 +61,38 @@ This kind of task is highly applicable in social media analytics, marketing, and
 Morever, this approach can be extended beyond social media to any domain dealing with big data, such as:
 
 - E Commerce (analyzing purchases, product views)
+  
+- Healthcare (tracking patient activity logs)
+  
+- Finance (monitoring transactions and fraud detection)
+  
+- Education (logging student platform activity)
+
+## Key Tasks Performed:
+
+- Dataset Loading: Loaded the dataset using PySpark's read.csv() function with schema inference.
+  
+- Data Preview & Validation: Used .show() and .printSchema() to inspect the data and confirm its structure.
+  
+- Data Analysis:
+  
+  - Counted total posts in the dataset.
+    
+  - Identified the most popular posts types (e.g., photo, video, story).
+    
+  - Calculated average likes per post type.
+    
+  - Analyzed usage distribution across device types (mobile, desktop, tablet).
+    
+  - Found the top 5 posts with the highest number of likes.
+    
+- Output Presentation: Displayed all insights directly in the notebook, clearly marked with section headings and comments for readability.
+
+## Learning Outcomes:
+
+This internship task helped me strengthen my skills in:
+
+- Writing and structuring PySpark code
+- Working with cloud based platforms like Google Colab
+- Cleaning, transforming, and aggregating data in a distributed environment
+
