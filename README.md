@@ -93,6 +93,13 @@ Morever, this approach can be extended beyond social media to any domain dealing
 This internship task helped me strengthen my skills in:
 
 - Writing and structuring PySpark code
+  
 - Working with cloud based platforms like Google Colab
+  
 - Cleaning, transforming, and aggregating data in a distributed environment
+  
+- Drawing insights that can influence decision making in real time systems
+
+
+
 
