@@ -12,7 +12,7 @@
 
 *MENTOR*- NEELA SANTOSH
 
-# SOCIAL MEDIA DATA ANALYSIS USING PYSPARK
+## SOCIAL MEDIA DATA ANALYSIS USING PYSPARK
 
 ## OVERVIEW
 
@@ -99,7 +99,3 @@ This internship task helped me strengthen my skills in:
 - Cleaning, transforming, and aggregating data in a distributed environment
   
 - Drawing insights that can influence decision making in real time systems
-
-
-
-
